@@ -1,6 +1,6 @@
 {
-  "name": "oserver",
-  "version": "0.0.2",
+  "name": "pzlserver",
+  "version": "0.0.1",
   "description": "NodeJS静态资源服务器",
   "keywords": [
     "server",
@@ -8,10 +8,10 @@
   ],
   "main": "src/index.js",
   "repository": {
-    "url": "https://github.com/xpromise/oserver"
+    "url": "https://github.com/xpromise/pzlserver"
   },
   "bin": {
-    "oserver": "bin/oserver.js"
+    "oserver": "bin/pzlserver.js"
   },
   "scripts": {
     "lint": "eslint . --cache",
