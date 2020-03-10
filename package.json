@@ -1,5 +1,5 @@
 {
-  "name": "xjserver",
+  "name": "oserver",
   "version": "0.0.1",
   "description": "NodeJS静态资源服务器",
   "keywords": [
@@ -8,10 +8,10 @@
   ],
   "main": "src/index.js",
   "repository": {
-    "url": "https://github.com/xpromise/xjserver"
+    "url": "https://github.com/xpromise/oserver"
   },
   "bin": {
-    "xjserver": "bin/xjserver.js"
+    "oserver": "bin/oserver.js"
   },
   "scripts": {
     "lint": "eslint . --cache",

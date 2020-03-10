@@ -1,18 +1,18 @@
-# xjserver
+# oserver
 NodeJS静态资源服务器
 
 ## 安装
 
 ```
-npm i xjserver -g
+npm i oserver -g
 ```
 
 ## 配置
 ```
-xjserver [option]
+oserver [option]
 
 EXAMPLE:
-xjserver -p 4000 				端口号
-xjserver -h localhost 	主机名
-xjserver -d static   		运行项目的目录
+oserver -p 4000 				端口号
+oserver -h localhost 	主机名
+oserver -d static   		运行项目的目录
 ```
